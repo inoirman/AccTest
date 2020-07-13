@@ -1,0 +1,10 @@
+{
+    "name": "kiadev/acc-test",
+    "authors": [
+        {
+            "name": "Ignaty Kashnitsky",
+            "email": "noir.ik@gmail.com"
+        }
+    ],
+    "require": {}
+}
